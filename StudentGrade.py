@@ -30,8 +30,7 @@ while loop:
     for x in grades: 
       if x >= 80:
         honour += 1
-        print(str(x),"%", "|Honour")
-        print(honour)
+        print(str(x),"%", "|Honour", honour)    
   elif selection == "3":
       print ("Average STATS Of Students")
       print ("\nHigest Average: " + str(max(grades)) + " %")
