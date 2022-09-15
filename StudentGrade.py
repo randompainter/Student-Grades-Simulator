@@ -50,23 +50,3 @@ while loop:
     loop = False
   else:
     loop = True
-
-
-
-
-
-
-
-    #for i in range (0, 35):
-    # x = random.randrange(0, 101)
-     #print(str(x) + " %") 
-
-#for X in grades:
-    # grades = random.randrange(0, 101)
-   #  print(grades, "%")
-
-
-    #grades = []
-    #grades = random.sample(range(0, 100), 35)
-    #print(grades)
-
