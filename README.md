@@ -1,3 +1,2 @@
 # Student-Grades-Simulator
-Project that allows you to display student grades, see the lowest highest average and so on
-Simple Project
+Project that allows the user to create a simulation for student grades, see the lowest highest average and so on.
